@@ -1,0 +1,32 @@
+{
+  "name": "sohamp.dev-social-cards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/und3fined-v01d/sohamp.dev-social-cards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/und3fined-v01d/sohamp.dev-social-cards/issues"
+  },
+  "homepage": "https://github.com/und3fined-v01d/sohamp.dev-social-cards#readme",
+  "dependencies": {
+    "chrome-aws-lambda": "^7.0.0",
+    "marked": "^2.0.0",
+    "puppeteer-core": "^7.1.0",
+    "twemoji": "^13.0.1"
+  },
+  "devDependencies": {
+    "@types/marked": "^1.2.2",
+    "@types/puppeteer": "^5.4.3",
+    "@types/puppeteer-core": "^5.4.0",
+    "typescript": "^4.1.5"
+  }
+}
